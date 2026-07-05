@@ -9,10 +9,12 @@ the problem that i solve on leetcode on daily basis
 | [0004-median-of-two-sorted-arrays](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
