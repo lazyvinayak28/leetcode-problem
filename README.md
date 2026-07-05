@@ -11,12 +11,14 @@ the problem that i solve on leetcode on daily basis
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,4 +62,5 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
