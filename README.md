@@ -15,6 +15,7 @@ the problem that i solve on leetcode on daily basis
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
+| [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ the problem that i solve on leetcode on daily basis
 ## String
 |  |
 | ------- |
+| [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
@@ -76,8 +78,13 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0078-subsets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0078-subsets) |
+| [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
