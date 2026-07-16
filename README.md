@@ -11,6 +11,7 @@ the problem that i solve on leetcode on daily basis
 | [0078-subsets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0941-valid-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0941-valid-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
