@@ -10,6 +10,7 @@ the problem that i solve on leetcode on daily basis
 | [0042-trapping-rain-water](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0941-valid-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0941-valid-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1095-find-in-mountain-array) |
@@ -79,11 +80,13 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0078-subsets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
 | ------- |
