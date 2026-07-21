@@ -95,6 +95,7 @@ the problem that i solve on leetcode on daily basis
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
