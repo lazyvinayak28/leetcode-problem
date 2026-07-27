@@ -47,6 +47,7 @@ the problem that i solve on leetcode on daily basis
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0344-reverse-string) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -57,6 +58,7 @@ the problem that i solve on leetcode on daily basis
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -83,6 +85,7 @@ the problem that i solve on leetcode on daily basis
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
