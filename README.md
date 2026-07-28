@@ -99,6 +99,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0078-subsets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,10 +109,12 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0007-reverse-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
