@@ -1,29 +1,23 @@
 class Solution {
 public:
-    void check(int sum,vector<vector<int>> &ans,vector<int> nums,int i,int x,vector<int>v){
-        if(sum>x){return;}
-        if(sum==x){ans.push_back(v);return;}
-        while(i<nums.size()){
-        sum=sum+nums[i];
-        v.push_back(nums[i]);
-        check(sum,ans,nums,i,x,v);
-        v.pop_back();
-        sum=sum-nums[i];
-        // for(int j=i+1;j<nums.size();j++){
-        //     sum+=nums[j];
-        //     v.push_back(nums[j]);
-        //     check(sum,ans,nums,j,x,v);}
-        //     i++;
-        
-        i++;}
-
+    void findcombo(int k,vector<int> nums,int x,vector<vector<int>> &ans, vector<int> t,int sum){
+        if(sum==x){ans.push_back(t);return;}
+        if(sum>x){return ; }
+        for(int i=k;i<nums.size();i++){
+            int n=nums[i];
+            t.push_back(n);
+            sum+=n;
+            findcombo(i,nums,x,ans,t,sum);
+            t.pop_back();
+            sum-=n;
+        }
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        sort(candidates.begin(),candidates.end());
         vector<int> v;
-        int i=0;
-        check(0,ans,candidates,i,target,v);
+        vector<vector<int>> ans;
+        int sum=0;
+
+        findcombo(0,candidates,target,ans,v,sum);
         return ans;
     }
 };
