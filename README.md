@@ -15,6 +15,7 @@ the problem that i solve on leetcode on daily basis
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [0941-valid-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0941-valid-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -62,6 +63,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0022-generate-parentheses](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -93,6 +95,7 @@ the problem that i solve on leetcode on daily basis
 | [0046-permutations](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
