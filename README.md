@@ -51,6 +51,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0344-reverse-string) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
