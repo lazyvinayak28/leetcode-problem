@@ -18,6 +18,7 @@ the problem that i solve on leetcode on daily basis
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [0941-valid-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0941-valid-mountain-array) |
+| [1052-grumpy-bookstore-owner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1052-grumpy-bookstore-owner) |
 | [1095-find-in-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
@@ -130,4 +131,8 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
