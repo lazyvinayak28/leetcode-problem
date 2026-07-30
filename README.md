@@ -11,6 +11,7 @@ the problem that i solve on leetcode on daily basis
 | [0040-combination-sum-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
@@ -113,6 +114,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0007-reverse-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
