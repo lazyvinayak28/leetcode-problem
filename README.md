@@ -54,6 +54,7 @@ the problem that i solve on leetcode on daily basis
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
@@ -100,6 +101,7 @@ the problem that i solve on leetcode on daily basis
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0040-combination-sum-ii) |
@@ -119,6 +121,7 @@ the problem that i solve on leetcode on daily basis
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
