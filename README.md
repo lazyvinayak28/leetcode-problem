@@ -19,6 +19,7 @@ the problem that i solve on leetcode on daily basis
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
+| [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 | [0941-valid-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0941-valid-mountain-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1052-grumpy-bookstore-owner) |
 | [1095-find-in-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1095-find-in-mountain-array) |
@@ -95,6 +96,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 | [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
 ## Interactive
 |  |
@@ -159,6 +161,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
+| [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 ## Minimax
 |  |
 | ------- |
@@ -171,4 +174,12 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
