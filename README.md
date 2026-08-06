@@ -16,6 +16,7 @@ the problem that i solve on leetcode on daily basis
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
@@ -96,6 +97,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 | [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
@@ -163,6 +165,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 ## Minimax
 |  |
@@ -179,9 +182,11 @@ the problem that i solve on leetcode on daily basis
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
