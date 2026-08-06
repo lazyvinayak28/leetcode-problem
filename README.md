@@ -142,6 +142,7 @@ the problem that i solve on leetcode on daily basis
 | [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -189,4 +190,8 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0200-number-of-islands](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
