@@ -17,6 +17,7 @@ the problem that i solve on leetcode on daily basis
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [0941-valid-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0941-valid-mountain-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1052-grumpy-bookstore-owner) |
@@ -74,6 +75,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0022-generate-parentheses](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -130,6 +132,7 @@ the problem that i solve on leetcode on daily basis
 | [0007-reverse-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -137,6 +140,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
@@ -155,4 +159,16 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
