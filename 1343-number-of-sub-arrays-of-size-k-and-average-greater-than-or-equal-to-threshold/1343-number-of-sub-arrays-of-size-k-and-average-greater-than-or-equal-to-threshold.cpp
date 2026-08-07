@@ -12,8 +12,8 @@ public:
         if(avg>=threshold){c++;}
         while(j<n-1){
             sum=sum-arr[i]+arr[j+1];
-            int tavg=sum/k;
-            if(tavg>=threshold){c++;}
+            avg=sum/k;
+            if(avg>=threshold){c++;}
             i++;j++;
         }
         return c;
