@@ -64,6 +64,7 @@ the problem that i solve on leetcode on daily basis
 | [0038-count-and-say](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0344-reverse-string) |
+| [1189-maximum-number-of-balloons](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -131,6 +132,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1189-maximum-number-of-balloons](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -166,6 +168,7 @@ the problem that i solve on leetcode on daily basis
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
 |  |
