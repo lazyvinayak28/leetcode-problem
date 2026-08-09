@@ -26,6 +26,7 @@ the problem that i solve on leetcode on daily basis
 | [1004-max-consecutive-ones-iii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1052-grumpy-bookstore-owner) |
 | [1095-find-in-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1095-find-in-mountain-array) |
+| [1219-path-with-maximum-gold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -108,6 +109,7 @@ the problem that i solve on leetcode on daily basis
 | [0200-number-of-islands](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
+| [1219-path-with-maximum-gold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1219-path-with-maximum-gold) |
 | [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
 ## Interactive
 |  |
@@ -126,6 +128,7 @@ the problem that i solve on leetcode on daily basis
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
+| [1219-path-with-maximum-gold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1219-path-with-maximum-gold) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
