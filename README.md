@@ -23,6 +23,7 @@ the problem that i solve on leetcode on daily basis
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 | [0941-valid-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0941-valid-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1052-grumpy-bookstore-owner) |
 | [1095-find-in-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -38,6 +39,7 @@ the problem that i solve on leetcode on daily basis
 | [0004-median-of-two-sorted-arrays](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
@@ -166,6 +168,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -211,5 +214,6 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
