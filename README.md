@@ -68,6 +68,7 @@ the problem that i solve on leetcode on daily basis
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0038-count-and-say) |
@@ -144,6 +145,7 @@ the problem that i solve on leetcode on daily basis
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
@@ -177,6 +179,7 @@ the problem that i solve on leetcode on daily basis
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
