@@ -39,6 +39,7 @@ the problem that i solve on leetcode on daily basis
 | [1539-kth-missing-positive-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
+| [2270-number-of-ways-to-split-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2270-number-of-ways-to-split-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -251,6 +252,7 @@ the problem that i solve on leetcode on daily basis
 | [1004-max-consecutive-ones-iii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2270-number-of-ways-to-split-array) |
 ## Merge Sort
 |  |
 | ------- |
