@@ -24,6 +24,7 @@ the problem that i solve on leetcode on daily basis
 | [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0941-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1052-grumpy-bookstore-owner) |
@@ -52,6 +53,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +67,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -110,6 +113,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -239,4 +243,20 @@ the problem that i solve on leetcode on daily basis
 | [0713-subarray-product-less-than-k](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
