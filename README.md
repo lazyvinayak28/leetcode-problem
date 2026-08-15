@@ -34,6 +34,7 @@ the problem that i solve on leetcode on daily basis
 | [1219-path-with-maximum-gold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1219-path-with-maximum-gold) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1402-reducing-dishes](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
@@ -74,6 +75,7 @@ the problem that i solve on leetcode on daily basis
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0881-boats-to-save-people](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
+| [1402-reducing-dishes](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1402-reducing-dishes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -99,6 +101,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0881-boats-to-save-people) |
+| [1402-reducing-dishes](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1402-reducing-dishes) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -110,6 +113,7 @@ the problem that i solve on leetcode on daily basis
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
+| [1402-reducing-dishes](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1402-reducing-dishes) |
 ## Stack
 |  |
 | ------- |
