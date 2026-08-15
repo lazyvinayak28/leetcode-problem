@@ -90,6 +90,7 @@ the problem that i solve on leetcode on daily basis
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -253,6 +254,7 @@ the problem that i solve on leetcode on daily basis
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2270-number-of-ways-to-split-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Merge Sort
 |  |
 | ------- |
