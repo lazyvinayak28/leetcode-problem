@@ -67,6 +67,7 @@ the problem that i solve on leetcode on daily basis
 | [0344-reverse-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0881-boats-to-save-people) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
@@ -91,6 +92,7 @@ the problem that i solve on leetcode on daily basis
 | [1189-maximum-number-of-balloons](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -102,6 +104,7 @@ the problem that i solve on leetcode on daily basis
 | [0334-increasing-triplet-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [1402-reducing-dishes](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1402-reducing-dishes) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -118,6 +121,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -283,4 +287,8 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0334-increasing-triplet-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
