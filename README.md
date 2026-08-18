@@ -29,6 +29,7 @@ the problem that i solve on leetcode on daily basis
 | [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0941-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1052-grumpy-bookstore-owner) |
 | [1095-find-in-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1095-find-in-mountain-array) |
 | [1219-path-with-maximum-gold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1219-path-with-maximum-gold) |
@@ -135,6 +136,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1046-last-stone-weight) |
 ## Matrix
 |  |
 | ------- |
