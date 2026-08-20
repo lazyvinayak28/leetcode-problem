@@ -301,4 +301,8 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
