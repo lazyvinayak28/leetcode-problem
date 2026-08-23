@@ -63,6 +63,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@ the problem that i solve on leetcode on daily basis
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1046-last-stone-weight) |
@@ -289,6 +291,7 @@ the problem that i solve on leetcode on daily basis
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -319,6 +322,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0141-linked-list-cycle) |
@@ -338,4 +342,8 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [2326-spiral-matrix-iv](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2326-spiral-matrix-iv) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
