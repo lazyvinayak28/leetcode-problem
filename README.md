@@ -64,6 +64,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ the problem that i solve on leetcode on daily basis
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
@@ -86,6 +88,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0881-boats-to-save-people](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
@@ -292,6 +295,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -327,6 +331,7 @@ the problem that i solve on leetcode on daily basis
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0328-odd-even-linked-list) |
