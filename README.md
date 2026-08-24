@@ -53,6 +53,7 @@ the problem that i solve on leetcode on daily basis
 | [0209-minimum-size-subarray-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0713-subarray-product-less-than-k) |
+| [0981-time-based-key-value-store](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -107,6 +108,7 @@ the problem that i solve on leetcode on daily basis
 | [0344-reverse-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -198,6 +200,7 @@ the problem that i solve on leetcode on daily basis
 | [0438-find-all-anagrams-in-a-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0904-fruit-into-baskets) |
+| [0981-time-based-key-value-store](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
@@ -353,4 +356,8 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
