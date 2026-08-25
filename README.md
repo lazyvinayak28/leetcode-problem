@@ -42,6 +42,7 @@ the problem that i solve on leetcode on daily basis
 | [1539-kth-missing-positive-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2270-number-of-ways-to-split-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2270-number-of-ways-to-split-array) |
 | [2326-spiral-matrix-iv](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -61,6 +62,7 @@ the problem that i solve on leetcode on daily basis
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
