@@ -115,6 +115,7 @@ the problem that i solve on leetcode on daily basis
 | [0438-find-all-anagrams-in-a-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0981-time-based-key-value-store) |
+| [1079-letter-tile-possibilities](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -188,6 +189,7 @@ the problem that i solve on leetcode on daily basis
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
+| [1079-letter-tile-possibilities](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1219-path-with-maximum-gold) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
@@ -208,6 +210,7 @@ the problem that i solve on leetcode on daily basis
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0981-time-based-key-value-store) |
+| [1079-letter-tile-possibilities](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
@@ -257,6 +260,7 @@ the problem that i solve on leetcode on daily basis
 ## Counting
 |  |
 | ------- |
+| [1079-letter-tile-possibilities](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
