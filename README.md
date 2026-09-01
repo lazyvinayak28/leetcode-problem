@@ -99,6 +99,7 @@ the problem that i solve on leetcode on daily basis
 | [0148-sort-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0611-valid-triangle-number) |
+| [0791-custom-sort-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0912-sort-an-array) |
 | [1402-reducing-dishes](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1402-reducing-dishes) |
@@ -115,6 +116,7 @@ the problem that i solve on leetcode on daily basis
 | [0344-reverse-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
+| [0791-custom-sort-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0791-custom-sort-string) |
 | [0981-time-based-key-value-store](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0981-time-based-key-value-store) |
 | [1079-letter-tile-possibilities](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1189-maximum-number-of-balloons) |
@@ -210,6 +212,7 @@ the problem that i solve on leetcode on daily basis
 | [0160-intersection-of-two-linked-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
+| [0791-custom-sort-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0981-time-based-key-value-store) |
 | [1079-letter-tile-possibilities](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1079-letter-tile-possibilities) |
