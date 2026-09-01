@@ -11,6 +11,7 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
+        if(head==NULL || head->next==NULL){return head;}
         ListNode*temp=head;
         int n=0;
         while(temp!=NULL){
@@ -25,10 +26,12 @@ public:
             temp=temp->next;
             i++;
         }
-        vector<int> num=nums;
-        reverse(num.begin(),num.end());
-        if(num==nums){return true;}
-        return false;
+        i=0;int j=n-1;
+        while(i<=j){
+            if(nums[i]!=nums[j]){return false;}
+            i++;j--;
+        }
+        return true;
         
 
     }
