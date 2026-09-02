@@ -31,21 +31,20 @@ public:
         ListNode*prev=NULL;
         ListNode*next=temp->next;
         while(temp!=NULL){
-            // 
-            if(temp->next==NULL){temp->next=prev;break;}
+            
+            next=temp->next;
             temp->next=prev;
             prev=temp;
             temp=next;
-            next=temp->next;
+            
         }
-        tail->next=temp;
+        tail->next=prev;
         int ans=INT_MIN;
         ListNode*slow=head;
         ListNode*fast=tail->next;
-        while(slow!=NULL && fast!=NULL){
+        while(fast!=NULL){
             int sum=slow->val+fast->val;
             if(ans<sum){ans=sum;}
-            if(slow->next==NULL){break;}
             slow=slow->next;
             fast=fast->next;
         }
