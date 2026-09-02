@@ -91,6 +91,7 @@ the problem that i solve on leetcode on daily basis
 | [0881-boats-to-save-people](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0881-boats-to-save-people) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
@@ -155,6 +156,7 @@ the problem that i solve on leetcode on daily basis
 | [0042-trapping-rain-water](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -366,6 +368,7 @@ the problem that i solve on leetcode on daily basis
 | [0876-middle-of-the-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2326-spiral-matrix-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
