@@ -48,6 +48,7 @@ the problem that i solve on leetcode on daily basis
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3875-construct-uniform-parity-array-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ the problem that i solve on leetcode on daily basis
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
