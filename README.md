@@ -154,6 +154,7 @@ the problem that i solve on leetcode on daily basis
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
+| [1227-airplane-seat-assignment-probability](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1227-airplane-seat-assignment-probability) |
 | [1402-reducing-dishes](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1402-reducing-dishes) |
 ## Stack
 |  |
@@ -238,6 +239,7 @@ the problem that i solve on leetcode on daily basis
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
+| [1227-airplane-seat-assignment-probability](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -399,4 +401,12 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0981-time-based-key-value-store) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
