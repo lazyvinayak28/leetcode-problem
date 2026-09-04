@@ -50,6 +50,7 @@ the problem that i solve on leetcode on daily basis
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -325,6 +326,7 @@ the problem that i solve on leetcode on daily basis
 | [2270-number-of-ways-to-split-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2270-number-of-ways-to-split-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3903-smallest-stable-index-i](https://github.com/lazyvinayak28/leetcode-problem/tree/master/3903-smallest-stable-index-i) |
 ## Merge Sort
 |  |
 | ------- |
