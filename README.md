@@ -236,6 +236,7 @@ the problem that i solve on leetcode on daily basis
 | [0007-reverse-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0066-plus-one) |
+| [0319-bulb-switcher](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
@@ -404,6 +405,7 @@ the problem that i solve on leetcode on daily basis
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0319-bulb-switcher) |
 | [1227-airplane-seat-assignment-probability](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
