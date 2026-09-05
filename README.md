@@ -16,6 +16,7 @@ the problem that i solve on leetcode on daily basis
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0334-increasing-triplet-subsequence) |
@@ -88,6 +89,7 @@ the problem that i solve on leetcode on daily basis
 | [0143-reorder-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0567-permutation-in-string) |
@@ -236,6 +238,7 @@ the problem that i solve on leetcode on daily basis
 | [0007-reverse-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
