@@ -154,6 +154,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0022-generate-parentheses](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0343-integer-break](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
@@ -241,6 +242,7 @@ the problem that i solve on leetcode on daily basis
 | [0066-plus-one](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
