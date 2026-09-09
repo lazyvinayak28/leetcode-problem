@@ -159,6 +159,7 @@ the problem that i solve on leetcode on daily basis
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1227-airplane-seat-assignment-probability) |
 | [1402-reducing-dishes](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1402-reducing-dishes) |
 ## Stack
@@ -248,6 +249,7 @@ the problem that i solve on leetcode on daily basis
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
+| [1025-divisor-game](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -309,6 +311,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
+| [1025-divisor-game](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -418,6 +421,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
@@ -439,4 +443,8 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0365-water-and-jug-problem) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
