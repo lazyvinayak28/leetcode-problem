@@ -243,6 +243,7 @@ the problem that i solve on leetcode on daily basis
 | [0189-rotate-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0365-water-and-jug-problem) |
 | [0486-predict-the-winner](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0779-k-th-symbol-in-grammar) |
@@ -297,6 +298,7 @@ the problem that i solve on leetcode on daily basis
 | ------- |
 | [0079-word-search](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0365-water-and-jug-problem) |
 | [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 ## Minimax
 |  |
@@ -314,6 +316,7 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0365-water-and-jug-problem) |
 | [0695-max-area-of-island](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
@@ -418,4 +421,20 @@ the problem that i solve on leetcode on daily basis
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1227-airplane-seat-assignment-probability) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/lazyvinayak28/leetcode-problem/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
