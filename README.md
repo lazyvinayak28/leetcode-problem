@@ -40,6 +40,7 @@ the problem that i solve on leetcode on daily basis
 | [1402-reducing-dishes](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1539-kth-missing-positive-number](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1901-find-a-peak-element-ii) |
 | [1980-find-unique-binary-string](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1980-find-unique-binary-string) |
@@ -403,6 +404,7 @@ the problem that i solve on leetcode on daily basis
 ## Simulation
 |  |
 | ------- |
+| [1535-find-the-winner-of-an-array-game](https://github.com/lazyvinayak28/leetcode-problem/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2326-spiral-matrix-iv](https://github.com/lazyvinayak28/leetcode-problem/tree/master/2326-spiral-matrix-iv) |
 ## Tournament Sort
 |  |
